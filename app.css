@@ -1,0 +1,13 @@
+.container-fluid{
+    display:flex;
+}
+
+#iImportant{ 
+    font-size: 30px;
+    color:orange;
+    cursor: pointer;
+
+}
+#iImportant:hover{
+    color: rgb(94, 40, 4);
+}
